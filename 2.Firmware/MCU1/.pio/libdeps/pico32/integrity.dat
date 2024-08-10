@@ -1,0 +1,5 @@
+adafruit/Adafruit NeoPixel@^1.12.2
+lewisxhe/SensorLib@^0.1.4
+miwagner/ESP32CAN@^0.0.1
+fastled/FastLED@^3.7.0
+wollewald/MPU9250_WE@^1.2.9
